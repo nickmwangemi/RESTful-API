@@ -6,10 +6,15 @@ Clone the repo:
 $ git clone https://github.com/nickmwangemi/RESTful-API.git
 ```
 
-Change into the project directory:
+Switch to the project directory:
 
 ```
 $ cd RESTful-API
+```
+
+Install project dependencies and fire up the server:
+
+```
 $ npm install
 $ npm start
 # or run with Nodemon
