@@ -1,0 +1,30 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API Project (Build a simple shop API)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickmwangemi/RESTful-API.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Nick Mwangemi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickmwangemi/RESTful-API/issues"
+  },
+  "homepage": "https://github.com/nickmwangemi/RESTful-API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
